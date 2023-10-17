@@ -1,4 +1,4 @@
-package com.codepath.articlesearch
+package com.codepath.`Flixster+`
 
 import org.junit.Test
 
